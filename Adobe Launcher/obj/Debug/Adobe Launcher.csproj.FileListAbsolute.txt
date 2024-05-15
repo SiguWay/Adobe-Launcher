@@ -1,0 +1,35 @@
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.exe.config
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.exe
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.pdb
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.AssemblyReference.cache
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe_Launcher.Properties.Resources.resources
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.GenerateResource.cache
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.CoreCompileInputs.cache
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.exe
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.pdb
+C:\Users\lambe\source\repos\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe_Launcher.Form1.resources
+C:\Program Files\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.exe.config
+C:\Program Files\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.exe
+C:\Program Files\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.pdb
+C:\Program Files\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.AssemblyReference.cache
+C:\Program Files\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe_Launcher.Form1.resources
+C:\Program Files\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe_Launcher.Properties.Resources.resources
+C:\Program Files\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.GenerateResource.cache
+C:\Program Files\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.CoreCompileInputs.cache
+C:\Program Files\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.exe
+C:\Program Files\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.pdb
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.exe.config
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.exe.manifest
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.application
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.exe
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\bin\Debug\Adobe Launcher.pdb
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.AssemblyReference.cache
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe_Launcher.Form1.resources
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe_Launcher.Properties.Resources.resources
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.GenerateResource.cache
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.csproj.CoreCompileInputs.cache
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.TrustInfo.xml
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.exe.manifest
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.application
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.exe
+C:\Users\lambe\OneDrive\Documents\Adobe Launcher\Adobe Launcher\obj\Debug\Adobe Launcher.pdb
